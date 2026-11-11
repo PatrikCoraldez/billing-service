@@ -1,0 +1,5 @@
+
+[functions.billing]
+enabled = true
+verify_jwt = false
+entrypoint = "./functions/billing/index.ts"

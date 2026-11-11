@@ -1,0 +1,16 @@
+{
+  "name": "billing-service",
+  "version": "1.0.0",
+  "description": "Microservicio de facturación de demostración (AIS86, Semana 11) con Supabase Edge Functions y PostgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "supabase": "3.0.0"
+  }
+}
